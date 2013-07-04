@@ -1,6 +1,6 @@
 {
-    "name": "My App Name",
-    "description": "description of the app",
+    "name": "Pete's Test App",
+    "description": "This is a description for my test App",
     "version": "1",
     "type": "web",
     "csp": "allow 'self'; script-src 'self' ; style-src 'self';",
@@ -19,13 +19,13 @@
         "512": "/img/icons/webapp/icon512.png"
     },
     "developer": {
-        "name": "Daniele Veneroni",
-        "url": "http://venerons.github.io/"
+        "name": "Pete A",
+        "url": "http://www.banfieldagency.com/"
     },
     "default_locale": "en",
     "locales": {
       "it": {
-        "description": "Descrizione dell'applicazione"
+        "description": "This is a description for my test App"
       }
     }
 }
