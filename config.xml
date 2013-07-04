@@ -1,18 +1,18 @@
 <?xml version="1.0" encoding="UTF-8"?>
 	<widget xmlns = "http://www.w3.org/ns/widgets"
 		xmlns:gap = "http://phonegap.com/ns/1.0"
-		id = "it.venerons.APPLICATION"
+		id = "padamson.test.app"
 		version = "1.0.0"
 		versionCode = "1">
 
-    <name>APPLICATION NAME</name>
+    <name>Pete's Test App</name>
 
     <description>
-        APPLICATION DESCRIPTION
+        This is a description for my test App
     </description>
 
-    <author href="http://venerons.github.io" email="veneronslaboratories@gmail.com">
-        Daniele Veneroni
+    <author href="http://banfieldagency.com" email="padamson@bsl.com">
+        Peter Adamson
 	</author>
         
     <!-- ICONS -->
